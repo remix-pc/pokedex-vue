@@ -1,5 +1,4 @@
 <template>
-    <div class="column is-half is-offset-one-quarter">
         <div class="card">
             <div class="card-image">
                 <figure>
@@ -20,7 +19,7 @@
         </div>
         </div>
 
-    </div>
+    
 </template>
 
 <script>
